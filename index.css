@@ -18,7 +18,7 @@ header {
   font-size: 18px;
 }
 
-.form {
+.input {
   display: flex;
   justify-content: center;
   align-items: center;
